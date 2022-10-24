@@ -1,4 +1,4 @@
-# __NAME__
+# {NAME}
 
 <div style="text-align: center">
   <img src="./logo.png" />
@@ -8,9 +8,9 @@
 
 ---
 
-[![Auto Test CI](https://github.com/DarrenDanielDay/__NAME__/actions/workflows/test.yml/badge.svg)](https://github.com/DarrenDanielDay/__NAME__/actions/) [![Publish CI](https://github.com/DarrenDanielDay/__NAME__/actions/workflows/publish.yml/badge.svg)](https://github.com/DarrenDanielDay/__NAME__/actions/) [![npm version](https://badge.fury.io/js/__NAME__.svg)](https://badge.fury.io/js/__NAME__)
+[![Auto Test CI](https://github.com/DarrenDanielDay/{NAME}/actions/workflows/test.yml/badge.svg)](https://github.com/DarrenDanielDay/{NAME}/actions/) [![Publish CI](https://github.com/DarrenDanielDay/{NAME}/actions/workflows/publish.yml/badge.svg)](https://github.com/DarrenDanielDay/{NAME}/actions/) [![npm version](https://badge.fury.io/js/{NAME}.svg)](https://badge.fury.io/js/{NAME})
 
-__DESCRIPTION__
+{DESCRIPTION}
 
 ## 许可证
 
