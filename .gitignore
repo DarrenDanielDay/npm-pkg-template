@@ -1,3 +1,6 @@
+# For this project
+.npmrc
+package-lock.json
 # Logs
 logs
 *.log
