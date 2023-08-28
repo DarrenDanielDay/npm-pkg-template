@@ -30,8 +30,10 @@ jobs:
         run: npm run build
       - name: Test Project
         run: npm run test
+      - name: Clear Test Output
+        run: npm run clear:tests
       - name: Publish NPM Package
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v2
         with:
           dry-run: ${{ contains('npm-pkg-template', github.repository) }} # prevent publishing this repository
           token: ${{ secrets.NPM_TOKEN }}
